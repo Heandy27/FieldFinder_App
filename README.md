@@ -1,7 +1,7 @@
 # Field Finder App
 
 **Field Finder** is a mobile app developed with SwiftUI that helps users find nearby soccer fields and allows field owners to manage and publish their establishments with ease.  
-This app was developed in collaboration with my brother and focuses on enhancing the experience of both players and venue owners.
+This app was developed in collaboration with my brother and focuses on enhancing the experience of both players and field owners.
 
 <div style="display: flex; justify-content: center; align-items: center;">
 <img src="https://i.postimg.cc/XYvYBWHR/IMG-3376.png" alt="map" width="200">
