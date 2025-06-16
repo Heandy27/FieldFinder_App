@@ -26,6 +26,7 @@ This app was developed in collaboration with my brother and focuses on enhancing
 ## 📱 Features
 
 - **MapKit:** View nearby fields on a dynamic map using the user's real-time location.
+- **Dark Mode & Light Mode support:** Automatically adapts to the user's system appearance.
 - **Favorites:** Mark and save your favorite fields for quick access.
 - **Search:** Look up fields by name or location.
 - **Login:** Basic login system with token-based authentication.
