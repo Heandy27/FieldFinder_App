@@ -33,7 +33,8 @@ This app was developed in collaboration with my brother and focuses on enhancing
 - **API REST:** Communicates with a backend (built with Vapor) to fetch field data and manage users.
 - **MVVM:** Architecture with clear separation between View, ViewModel, and business logic.
 - **Async/Await:** Modern Swift concurrency for API requests.
-- **Secure Session:** Session handling using `Keychain` and `AppStorage`.
+- **Secure Session:** Session handling using `Keychain`
+- **Backend built with Vapor:** Swift-based server-side framework that powers the API.
 - **Unit Testing:** XCTest used for testing:
   - **Repository layer**
   - **Use Cases**
