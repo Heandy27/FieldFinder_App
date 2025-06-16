@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Cancha Los Libertadores",
+    "address": "Av. Amazonas y Naciones Unidas",
+    "fotos": [
+      "https://fieldfinder-uploads.s3.us-east-2.amazonaws.com/establecimiento/AB5C5912-B724-45D9-9652-82CC28F060F8-italia.png",
+      "https://fieldfinder-uploads.s3.us-east-2.amazonaws.com/establecimiento/AB5C5912-B724-45D9-9652-82CC28F060F8-cancha.png"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Cancha El Ejido",
+    "address": "Av. El Ejido y 6 de Diciembre",
+    "fotos": [
+      "https://fieldfinder-uploads.s3.us-east-2.amazonaws.com/establecimiento/EJIDO1.png",
+      "https://fieldfinder-uploads.s3.us-east-2.amazonaws.com/establecimiento/EJIDO2.png"
+    ]
+  }
+]

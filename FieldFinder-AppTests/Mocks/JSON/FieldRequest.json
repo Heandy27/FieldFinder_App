@@ -1,0 +1,8 @@
+{
+  "tipo": "Fútbol 7",
+  "modalidad": "Partido libre",
+  "precio": 35.0,
+  "iluminada": true,
+  "cubierta": false,
+  "establecimientoID": "1"
+}

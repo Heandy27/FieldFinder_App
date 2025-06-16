@@ -1,0 +1,12 @@
+{
+  "id": "abc123",
+  "tipo": "Fútbol 11",
+  "modalidad": "Torneo",
+  "precio": 60.0,
+  "cubierta": true,
+  "iluminada": true,
+  "fotos": [
+    "https://fieldfinder.com/uploads/canchas/cancha1.jpg",
+    "https://fieldfinder.com/uploads/canchas/cancha2.jpg"
+  ]
+}
