@@ -34,6 +34,7 @@ This app was developed in collaboration with my brother and focuses on enhancing
 - **MVVM:** Architecture with clear separation between View, ViewModel, and business logic.
 - **Async/Await:** Modern Swift concurrency for API requests.
 - **Secure Session:** Session handling using `Keychain`
+- **Onboarding & Feature Tips with TipKit:** Displays contextual tips to guide users through the app.
 - **Backend built with Vapor:** Swift-based server-side framework that powers the API.
 - **Unit Testing:** XCTest used for testing:
   - **Repository layer**
