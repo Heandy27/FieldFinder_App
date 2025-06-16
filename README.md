@@ -52,8 +52,6 @@ This app was developed in collaboration with my brother and focuses on enhancing
 - MVVM
 - Async/Await
 - Keychain
-- AppStorage
-- Combine (optional)
 - **XCTest** (unit testing)
 
 ---
