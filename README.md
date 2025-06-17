@@ -4,20 +4,20 @@
 This app was developed in collaboration with my brother and focuses on enhancing the experience of both players and field owners.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-<img src="https://i.postimg.cc/XYvYBWHR/IMG-3376.png" alt="map" width="200">
-<img src="https://i.postimg.cc/bJ1yfwrt/IMG-3377.png" alt="details" width="200">
-<img src="https://i.postimg.cc/R0kSYHSm/IMG-3378.png" alt="favorites" width="200">
-<img src="https://i.postimg.cc/DwYyqNR8/IMG-3379.png" alt="search" width="200">
+<img src="https://i.postimg.cc/7LcqZfcZ/home.png" alt="map" width="200">
+<img src="https://i.postimg.cc/k5Vdz743/tabbar.png" alt="details" width="200">
+<img src="https://i.postimg.cc/NFvYRZQh/perfifl.png" alt="favorites" width="200">
+<img src="https://i.postimg.cc/G3vbb3jb/login.png" alt="search" width="200">
 
-<img src="https://i.postimg.cc/LsY4vTMv/IMG-3380.png" alt="map" width="200">
-<img src="https://i.postimg.cc/MHxW6Jfr/IMG-3381.png" alt="details" width="200">
-<img src="https://i.postimg.cc/BZcShbdW/IMG-3383.png" alt="search" width="200">
-<img src="https://i.postimg.cc/yY1V2BHD/IMG-3384.png" alt="favorites" width="200">
+<img src="https://i.postimg.cc/QdY3fFjJ/registeruserview.png" alt="map" width="200">
+<img src="https://i.postimg.cc/bwyyCXkp/establishment-view.png" alt="details" width="200">
+<img src="https://i.postimg.cc/vmDQyW0K/fieldview.png" alt="search" width="200">
+<img src="https://i.postimg.cc/vZ0QCPt9/fielddetailview.png" alt="favorites" width="200">
 
-<img src="https://i.postimg.cc/m2mbsqL8/IMG-3385.png" alt="map" width="200">
-<img src="https://i.postimg.cc/jSCRdXCK/IMG-3386.png" alt="details" width="200">
-<img src="https://i.postimg.cc/nh5psDQm/IMG-3387.png" alt="search" width="200">
-<img src="https://i.postimg.cc/B650w775/IMG-3388.png" alt="favorites" width="200">
+<img src="https://i.postimg.cc/6qVKczQ8/perfilview.png" alt="map" width="200">
+<img src="https://i.postimg.cc/DydfPfWx/establishmetnregister.png" alt="details" width="200">
+<img src="https://i.postimg.cc/X734qM2d/registerestablishmentview.png" alt="search" width="200">
+<img src="https://i.postimg.cc/pXZxn077/registerfieldview.png" alt="favorites" width="200">
 
 </div>
 
